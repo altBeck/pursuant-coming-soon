@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Helvetica Now Display';
+  src: local('Helvetica Now Display'), url(./public/fonts/HelveticaNowDisplay-Regular.ttf) format('ttf');
+}
+
+@import url(./public/fonts/Helvetica Now Display);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
